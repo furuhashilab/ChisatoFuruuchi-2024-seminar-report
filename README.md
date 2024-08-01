@@ -1,2 +1,2 @@
-# chisato-furuuchi-2024-seminer-report
+# ChisatoFuruuchi-2024-seminer-report
 ## ゼミ論構想発表用
