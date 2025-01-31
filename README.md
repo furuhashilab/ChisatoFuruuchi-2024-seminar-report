@@ -19,3 +19,4 @@
 ## 参考文献リスト
 広島アーカイブ: https://hiroshima.archiving.jp/index_jp.html  
 長崎アーカイブ: https://n.mapping.jp/index_jp.html
+東日本大震災アーカイブ: https://shinsai.mapping.jp/index_jp.html
